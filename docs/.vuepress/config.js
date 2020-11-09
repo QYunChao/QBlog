@@ -1,6 +1,6 @@
 module.exports = {
     title: '学无止，爱无涯',
-    base: '/qblog/',
+    base: '/QBlog/',
     dest: 'dist',
     description: 'Just playing around'
 }
